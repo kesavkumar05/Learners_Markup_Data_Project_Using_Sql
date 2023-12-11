@@ -1,8 +1,10 @@
 # Learners_Markup_Data_Project_Using_Sql
 
-## Part 1: Selecting the Table
- 
- 1. First, use SELECT * from both tables and use your knowledge of queries:
+## Part 0: Download the src files
+1. First, Download the src file in your local system.
+2. Now, open MySql Wrokbench in your system and create Database (or) Schema and import the src file to that particular database.
+## Part 1: Selecting the Table  
+1. First, use SELECT * from both tables and use your knowledge of queries:
 
 ## Part 2: Implement aggregate functions to get to know the data:
 
